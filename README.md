@@ -3,7 +3,9 @@ an AI assistant that run on your local machine :)
 
 Instruction:
 
-Step 1: Tại ổ C , tạo một thư mục là MyLocalAI, copy model AI vào thư mục này, giải nén zip vào trong thư mục MyLocalAI.
+Step 1: 
+- Download model tại: https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/tree/main
+- Tại ổ C , tạo một thư mục là MyLocalAI, copy model AI vào thư mục này, giải nén zip vào trong thư mục MyLocalAI.
 
 Step 2: Mở CMD tại đường dẫn MyLocalAI, chạy lệnh sau :
 
